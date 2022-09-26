@@ -3,13 +3,15 @@ TCP/IP server and client on localhost with port 8080 in C language.
 Server - Client Calculator using socket programming.
 
 Compile the Server.c and Client.c files.
+
 gcc server.c -o server
+
 gcc client.c -o client
 
 IP and PORT configurations are in config.h file.
 config.h is required to run client file properly.
 
-Run the server file as
+Run the server file as:
 ./server
 
 Run in another terminal client file:
