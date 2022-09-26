@@ -21,7 +21,8 @@ The Client will be prompt to enter the two numbers and run a command based on Ch
 3. Division 
 4. Multiplication 
 5. Turn off the server
-6.(any other character) Exit
+6. (any other character) Exit
+
 
 Without entering Choice № 5 server won't be turned off.
 To turn off server enter choice № 5 or press "ctrl+c" while on server terminal. 
